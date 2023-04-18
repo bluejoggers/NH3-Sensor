@@ -1,0 +1,13 @@
+Annotated +5V as #PWR01.
+Annotated GND as #PWR02.
+Annotated 0.1 uF as C1.
+Annotated LED as D1.
+Annotated LED as D2.
+Annotated 1k as R1.
+Annotated 1k as R2.
+Annotated 10k as RL1.
+Annotated  as RV1.
+Annotated 10k as RV2.
+Annotated LM393 (unit B) as U1B.
+Annotated LM393 (unit C) as U1C.
+Annotation complete.
